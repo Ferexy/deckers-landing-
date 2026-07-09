@@ -283,7 +283,7 @@ header {
         text-decoration: underline var(--text-color);
     }
     .images {
-        width: 85%;
+        width: 95%;
         height: 250px;
         border-radius: 16px;
         transform: rotate(0deg);
